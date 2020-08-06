@@ -30,6 +30,7 @@ public class abstractionmethod {
 	n1 obj=new n1();
 	obj.geta();
 	obj.sub();
+	System.out.println("Hi")
 	
 
 	}
